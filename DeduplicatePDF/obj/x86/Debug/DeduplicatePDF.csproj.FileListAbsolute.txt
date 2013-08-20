@@ -1,0 +1,9 @@
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\bin\Debug\DeduplicatePDF.exe
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\bin\Debug\DeduplicatePDF.pdb
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\bin\Debug\itextsharp.dll
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.csprojResolveAssemblyReference.cache
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.Form1.resources
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.Properties.Resources.resources
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.csproj.GenerateResource.Cache
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.exe
+d:\proyectos\DeduplicatePDF\DeduplicatePDF\obj\x86\Debug\DeduplicatePDF.pdb
