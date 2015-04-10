@@ -67,7 +67,7 @@ namespace DeduplicatePDF
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error:" + ex.Message);
+                    MessageBox.Show("Error:" + ex.Message+ " in File " + File);
                     e++;
                 }
                 pgbFiles.Value++;
